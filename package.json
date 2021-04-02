@@ -5,8 +5,9 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "test:unit": "vue-cli-service test:unit",
-    "lint": "vue-cli-service lint"
+    "test": "vue-cli-service test:unit",
+    "coverage": "jest tests --coverage",
+    "lint": "npx eslint --fix \"{,!(node_modules|public)/**/}*.{js,ts,vue}\""
   },
   "dependencies": {
     "core-js": "^3.6.5",
