@@ -1,6 +1,6 @@
 # crypto-tokens
 
-[![Coverage Status](https://coveralls.io/repos/github/ShaneLucy/crypto-tokens/badge.svg?branch=main)](https://coveralls.io/github/ShaneLucy/crypto-tokens?branch=main)
+[![Coverage Status](https://coveralls.io/repos/github/ShaneLucy/crypto-tokens/badge.svg?branch=master)](https://coveralls.io/github/ShaneLucy/crypto-tokens?branch=master)
 
 ## Project setup
 
