@@ -1,5 +1,5 @@
 <template>
-  <div class="mr-20 ml-20">
+  <div class="mx-24 2xl:mx-96">
     <Table />
   </div>
 </template>
