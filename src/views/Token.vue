@@ -17,7 +17,7 @@
           <p class="pb-7">{{ tokenData.genesis }}</p>
           <a
             target="_blank"
-            class="text-lg text-green-600 pt-10 pb-10 font-bold"
+            class="text-lg text-green-700 pt-10 pb-10 font-bold"
             :href="tokenData.homepage"
             >Website</a
           >
