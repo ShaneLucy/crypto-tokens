@@ -1,3 +1,3 @@
 import axios from "axios";
-axios.defaults.baseURL = process.env.VUE_APP_BASE_URL;
+axios.defaults.baseURL = "https://api.coingecko.com/api/v3/";
 export default axios;
