@@ -102,7 +102,7 @@
 
 <script lang="ts">
 import { defineComponent } from "vue";
-import { pageData } from "../interface/index";
+import { pageData, pageDataMap } from "../interface/index";
 import Error from "./Error.vue";
 
 export default defineComponent({
@@ -138,7 +138,7 @@ export default defineComponent({
           `coins/markets?vs_currency=eur&order=market_cap_desc&per_page=10&page=${page}&sparkline=false`
         );
 
-        this.pageData = response.data.map((value: any) => {
+        this.pageData = response.data.map((value: pageDataMap) => {
           return {
             id: value.id,
             image: value.image,
