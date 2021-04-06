@@ -2,7 +2,7 @@
 
 [![Coverage Status](https://coveralls.io/repos/github/ShaneLucy/crypto-tokens/badge.svg?branch=master)](https://coveralls.io/github/ShaneLucy/crypto-tokens?branch=master)
 
-https://github.com/ShaneLucy/crypto-tokens/workflows/build/badge.svg
+![Build Status](https://github.com/ShaneLucy/crypto-tokens/workflows/build/badge.svg)
 
 ## Project setup
 
