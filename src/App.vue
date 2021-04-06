@@ -1,6 +1,8 @@
 <template>
-  <div class="text-green-600 p-10 font-bold">
-    <router-link to="/">Home</router-link>
+  <div class="text-green-700 p-10 font-bold">
+    <nav>
+      <router-link to="/">Home</router-link>
+    </nav>
   </div>
   <router-view />
 </template>
